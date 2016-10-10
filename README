@@ -1,7 +1,7 @@
-This program downloads the html an css code of a web site input by the user.
+This program downloads the html and css code of a web site input by the user.
 The program has been written in Linux OS and not yet been tested for other platforms.
 
-Author: Ulas Askan
+Author: Ulas A.
 Date: 5 Oct 2016
 Python version written with: 3.4 
 
