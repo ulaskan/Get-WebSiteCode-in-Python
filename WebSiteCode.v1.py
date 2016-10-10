@@ -1,7 +1,7 @@
 #! /usr/bin/python3
 ####### UPLOAD VERSION 1
 """
-Author: Ulas Askan
+Author: Ulas A.
 Date: 10 Oct 2016
 Python version: 3.4
 This program takes a web page URL in the form of www.... and retrieves the html code of the front page.
