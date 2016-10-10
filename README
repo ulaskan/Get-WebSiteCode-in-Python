@@ -1,0 +1,25 @@
+This program downloads the html an css code of a web site input by the user.
+The program has been written in Linux OS and not yet been tested for other platforms.
+
+Author: Ulas Askan
+Date: 5 Oct 2016
+Python version written with: 3.4 
+
+This program takes a web page URL in the form of www.... and retrieves the html code of the front page.
+
+The program will currently not work if http:// or https:// is input as part of the path.
+
+The program creates folders Pages and CSS. The main page is stored in Pages and all the .css files obtaind from
+the main page are retrieved in the CSS folder. Next time the program is run the existing folders are deleted and 
+re-written by the program. 
+
+
+
+
+
+
+
+
+
+
+
