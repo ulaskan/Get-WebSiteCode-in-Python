@@ -64,7 +64,7 @@ def Main():
 	MakeDirs(Location)
 
 ##### Getting the main page contents of the website
-	MainPage = urllib.request.urlopen(site.URL)						### Get the main page and save it
+	MainPage = urllib.request.urlopen(site.URL)
 	mainFolder = os.path.join(os.getcwd(), "Pages")
 	with MainPage as page:
 		with open(mainFolder+"/Main.html", 'w') as f:
