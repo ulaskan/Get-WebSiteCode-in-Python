@@ -1,11 +1,11 @@
-This program downloads the html and css code of a web site input by the user.
+This program downloads the html and css code of a website input by the user.
 The program has been written in Linux OS and not yet been tested for other platforms.
 
 Author: Ulas A.
 Date: 5 Oct 2016
 Python version written with: 3.4 
 
-This program takes a web page URL in the form of www.... and retrieves the html code of the front page.
+This program takes a web page URL in the form of www.yourwebsite/ and retrieves the html code of the front page.
 
 The program will currently not work if http:// or https:// is input as part of the path.
 
